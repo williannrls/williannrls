@@ -35,6 +35,9 @@
 - **Power BI**
 - **Qlik Sense**
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=willianrlds&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="willianrlds" /></p>
+
   
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/willian-renato-259a10183?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -43,4 +46,5 @@
 &nbsp;<a href="https://www.instagram.com/willianrls?igsh=dGFnbmx5NjczaHNh">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+
 
